@@ -1,0 +1,2 @@
+mv [[:upper:]]* /temp/u
+#!/bin/bash
